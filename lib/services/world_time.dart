@@ -14,6 +14,8 @@ class WorldTime {
   Future<void> getTime() async {
     // Make the request
     print('Hello');
+    print('Hello 2');
+    print('Hello 3');
 
     try {
       Response response =
